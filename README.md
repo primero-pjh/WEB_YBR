@@ -11,8 +11,12 @@
 5. 댓글
 6. 등등
 
-Framework
+# Frontend
 
 Vue3, Vuex, VueRouter, Socket.io
 
 Quasar
+
+# Backend
+
+Socket.io, Express, mysql2, knex
