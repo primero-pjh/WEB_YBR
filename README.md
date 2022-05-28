@@ -20,3 +20,5 @@ Quasar
 # Backend
 
 Socket.io, Express, mysql2, knex
+
+Login Token은 JWT 
