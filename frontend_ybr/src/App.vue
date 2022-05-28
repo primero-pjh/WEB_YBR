@@ -8,12 +8,13 @@
 <script>
 
 import io from 'socket.io-client';
+import '@/assets/css/site.css';
 
 export default {
   name: 'App',
   data() {
     return {
-
+      
     }
   },
   computed: {

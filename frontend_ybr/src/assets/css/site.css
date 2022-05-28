@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'KakaoRegular';
+    src : url('../fonts/KakaoRegular.ttf');
+}
+
+* {
+    font-family: 'KakaoRegular';
+    font-size: 16px;
+}

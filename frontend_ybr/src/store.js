@@ -17,7 +17,6 @@ const store = createStore({
 	// getter
 	actions: {
 		get_user_info(context) {
-			console.log("get_user_info");
 			context.commit('setUser', "?");
 		}
 	}
